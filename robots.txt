@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-kzdd83.bokupaybymobile.com/sitemap.xml
